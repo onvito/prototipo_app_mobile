@@ -1,2 +1,4 @@
 # prototipo_app_mobile
-prototipo do meu app para filmes
+
+Prototipo do meu app para filmes
+Feito no expo.dev
